@@ -93,11 +93,15 @@ header a {
 .nav {
 	display: flex;
 	align-items: center;
+	
 }
-
+.nav img {
+	width: 55px;
+}
 .offer {
 	text-transform: uppercase;
 	margin-top: 216px;
+	text-align: left;
 ;
 }
 
@@ -153,7 +157,7 @@ header a {
 
 .gallery img {
 	transition: all 0.5s ease;
-	
+	width: 150px;
 }
 
 .gallery img:hover {

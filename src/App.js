@@ -1,6 +1,13 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
-
+import './Styles.css';
+import logo from "./img/logo.svg"
+import html from "./img/html.svg"
+import git from "./img/git.png"
+import css3 from "./img/CSS3.svg"
+import reactjs from "./img/react.png"
+import api from "./img/api.png"
+//dsfd
 function App() {
   return (
     <div className="App">
